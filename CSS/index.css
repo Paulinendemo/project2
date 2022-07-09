@@ -1,0 +1,61 @@
+body{
+    margin-left: 7rem;
+    margin-right: 7rem;
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #FAFAFA;
+}
+.nav{
+    display: flex;
+    font-size: larger;
+    padding: 1.5rem;
+    background-color: black;
+
+}
+.agri{
+    width: 30%;
+    margin-top: 1em;
+
+
+}
+.agri a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Oleo Script', cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.nav-list ul{
+display: flex;
+justify-content: space-around;
+list-style: none;
+
+}
+.nav-list{
+    width: 40%;
+
+}
+.nav-list ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+    
+
+.nav-button{
+    margin-left: 18rem;
+    margin-top: 1rem
+}
+.nav-button button{
+    background-color:  #ED661F;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0rem;
+    border-width: 0.1px;
+}
+.nav-button button a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 600;
+}
