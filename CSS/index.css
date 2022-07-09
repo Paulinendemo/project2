@@ -59,3 +59,37 @@ list-style: none;
     font-size: 1.5em;
     font-weight: 600;
 }
+.first{
+    display: block;
+    background-image: url();
+}
+p br{
+    font-size: 12rem;
+    font-weight: 4rem;
+}
+h1 span{
+    font-size: 30px;
+    font-weight: 3rem;
+}
+.nav- button button{
+    background-color:  #ED661F;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 0rem;
+    border-width: 0.1px;
+    float: left;
+}
+.button button a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+}
+    
+    
+
+
+
+
+
+    
+}
