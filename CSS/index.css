@@ -82,10 +82,18 @@ list-style: none;
     font-weight: 600;
 }
 .first{
-    display: block;
-    background-image: url();
-
+    background-image: url("../images/image1.png");
+    object-fit: cover;
+    background-position: center;
+    background-size: 100% 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    height: 90vh;
 }
+.one{
+    display: block;
+}
+
 p br{
     font-size: 12rem;
     font-weight: 4rem;
@@ -110,13 +118,31 @@ h1 span{
 .second{
     align-items:centre;
 }
+.why{
+    display: flex;
+    align-items: center;
+    
+}
+.exist{
+    display: block;
+}
 .third{
     font-size: 1.5rem;
     text-align: center;
 }
 .fourth{
+    display: block;
+}
+.popularitems{
     display: flex;
-    
+
+}
+.images{
+    gi
+}
+
+.newest{
+    display: flex;
 }
 
 
