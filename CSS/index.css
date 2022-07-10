@@ -201,7 +201,7 @@ p span{
 }
 
 .see a{
-    font-weight: bold;
+    font-weight: bolder;
     text-decoration: none;
     color: black;
 }
