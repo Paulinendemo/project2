@@ -9,7 +9,7 @@ An access to the Internet
 
 ## Installation Process
  Click on the link provided bellow to view the site.
-https://paulinendemo.github.io/Project2/
+https://paulinendemo.github.io/project2/
 ## Technology Used 
 HTML- which was used to build the structure of the pages.
 
