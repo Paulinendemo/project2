@@ -75,7 +75,7 @@ list-style: none;
     font-size: 1.5em;
     font-weight: 600;
 }
-.nav-button .login a{
+.login a{
     color:white ;
     text-decoration: none;
     font-size: 1rem;
@@ -86,21 +86,42 @@ list-style: none;
     object-fit: cover;
     background-position: center;
     background-size: 100% 100%;
-    display: flex;
+    
     background-repeat: no-repeat;
     height: 90vh;
+    margin-top: 7rem;
+}
+.text{
+    margin-left: 4rem;
 }
 .one{
-    display: block;
+    display: flex;
+}
+.onions{
+    width: 50%;
+    margin-left: 8rem;
+}
+.more button{
+    background-color: #ED661F;
+    height: 5rem;
+    width: 10rem;
+    border-width: 0px;
+}
+.more button a{
+    text-decoration: none;
+    color: #FAFAFA;
+    font-weight: bolder;
+    font-size: 20px;
+
 }
 
-p br{
-    font-size: 12rem;
-    font-weight: 4rem;
-}
-h1 span{
-    font-size: 30px;
+
+h1 {
+    font-size: 45px;
     font-weight: 3rem;
+}
+p{
+    font-size: 20px;
 }
 .nav- button button{
     background-color:  #ED661F;
@@ -115,16 +136,40 @@ h1 span{
     text-decoration: none;
     display: flex;
 }
+.box{
+    display: flex;
+    background-color: #FAFAFA;
+    margin-top: 18rem;
+    height: 10rem;
+    width: 40rem;
+    justify-content: space-around;
+    margin-left: 50rem;
+    border-bottom:black;
+    box-shadow: 0 0 0 5 black;
+    
+}
+.box p{
+    font-weight: bold;
+    text-align: center;
+}
 .second{
     align-items:centre;
+    
 }
 .why{
     display: flex;
-    align-items: center;
+    
+
     
 }
 .exist{
     display: block;
+    width: 50%;
+}
+p span{
+    display: block;
+    font-size: 25px;
+    margin-left: 4rem;
 }
 .third{
     font-size: 1.5rem;
@@ -138,9 +183,7 @@ h1 span{
     justify-content: space-between;
 
 }
-.images{
-    
-}
+
 .images img{
     width: 50%;
     height: auto;
@@ -167,7 +210,9 @@ h1 span{
 }
 .six{
     display: flex;
-    
+    justify-content: space-around;
+
+
 }
 
 
