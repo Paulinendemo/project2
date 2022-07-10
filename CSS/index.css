@@ -40,16 +40,32 @@ list-style: none;
     text-decoration: none;
 
 }
+.active{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+
+}
     
 
 .nav-button{
     margin-left: 18rem;
-    margin-top: 1rem
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
 }
 .nav-button button{
     background-color:  #ED661F;
     width: 8rem;
     height: 3rem;
+    border-radius: 0rem;
+    border-width: 0.1px;
+}
+.login{
+    margin-right: 1rem;
+    width: 8rem;
+    
     border-radius: 0rem;
     border-width: 0.1px;
 }
@@ -59,9 +75,16 @@ list-style: none;
     font-size: 1.5em;
     font-weight: 600;
 }
+.nav-button .login a{
+    color:white ;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+}
 .first{
     display: block;
     background-image: url();
+
 }
 p br{
     font-size: 12rem;
@@ -84,12 +107,58 @@ h1 span{
     text-decoration: none;
     display: flex;
 }
+.second{
+    align-items:centre;
+}
+.third{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.fourth{
+    display: flex;
+    
+}
+
+
+
+
     
     
-
+.seven{
+    background-color: black;
+    color: #FAFAFA;
+    display: block;
+    text-align: center;
+    margin-bottom:4px ;
+}
+.sev-buttom{
+    color: black;
+    background-color: white;
+}
+.sev-buttom1{
+    color: #FAFAFA;
+    background-color: #ED661F;
+}
 
 
 
 
     
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-top: 7.5rem;
+    justify-content: space-around;
+    padding-bottom: 9rem;
+    padding-left: 4rem;
+
+    
+    
+}
+h6{
+    float: bottom;
+}
+.footer.agri{
+    font-size: 4rem;
 }
