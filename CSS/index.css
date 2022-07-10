@@ -221,17 +221,25 @@ p span{
 .seven{
     background-color: black;
     color: #FAFAFA;
-    display: block;
+    height: 15vh;
     text-align: center;
-    margin-bottom:4px ;
+    
 }
-.sev-buttom{
+.sev-button{
     color: black;
     background-color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 43rem;
+    width: 15rem;
 }
-.sev-buttom1{
-    color: #FAFAFA;
+.sev-button button{
     background-color: #ED661F;
+    color: #FAFAFA;
+}
+.foot{
+    background-color: black;
+    color: #FAFAFA;
 }
 
 
@@ -251,7 +259,9 @@ p span{
     
 }
 h6{
-    float: bottom;
+    text-align: center;
+    padding: 3rem;
+    font-weight: bolder;
 }
 .footer.agri{
     font-size: 4rem;
