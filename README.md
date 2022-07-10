@@ -4,8 +4,8 @@
 This is a website that shows the Agriculture website. it contains all the information about the AgriPlus.
 
 ## Installation Requirements 
-1.computer 
-2 An access to the Internet
+computer,tablet or phone
+An access to the Internet
 
 ## Installation Process
  Click on the link provided bellow to view the site.
