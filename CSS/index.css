@@ -135,17 +135,40 @@ h1 span{
 }
 .popularitems{
     display: flex;
+    justify-content: space-between;
 
 }
 .images{
-    gi
+    
+}
+.images img{
+    width: 50%;
+    height: auto;
 }
 
 .newest{
     display: flex;
+    justify-content: space-between;
+}
+.see{
+    font-size: 16px;
+    position: relative;
+    width: 100%;
+    text-align: right;
 }
 
-
+.see a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.sixth{
+    display: block;
+}
+.six{
+    display: flex;
+    
+}
 
 
     
